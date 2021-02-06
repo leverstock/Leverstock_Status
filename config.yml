@@ -19,6 +19,8 @@ params:
   copyrightHolder: Leverstock Ltd
   eventsPerPage: 10
   iconType: image/png
-  groups: []
+  groups:
+    - VoIPTalk
+    - TestOK
   icon: /images/clearstatus.png
   description_footer: ""
