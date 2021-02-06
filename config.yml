@@ -19,9 +19,6 @@ params:
   copyrightHolder: Leverstock Ltd
   eventsPerPage: 10
   iconType: image/png
-  groups:
-    - VoIP Talk
-    - UltraVoIP
-    - UltraSwitch
+  groups: []
   icon: /images/clearstatus.png
   description_footer: ""
