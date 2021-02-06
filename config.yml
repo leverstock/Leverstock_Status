@@ -6,6 +6,7 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: VoIPTalk
+      group: Support
       description: Our VoIPTalk Phone Platform
     - name: UltraVoIP
       description: Our UltraVoIP Phone Platform
@@ -21,7 +22,6 @@ params:
   eventsPerPage: 10
   iconType: image/png
   groups:
-    - VoIPTalk
-    - TestOK
+    - Support
   icon: /images/clearstatus.png
   description_footer: ""
