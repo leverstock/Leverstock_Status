@@ -5,46 +5,46 @@ params:
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: Voice & Calls Services
+    - name: VoIP Talk - Voice & Calls Services
       group: VoIP Talk
       description: 
-    - name: Control Panel
+    - name: VoIP Talk - Control Panel
       group: VoIP Talk
       description:
-    - name: Voicemail
+    - name: VoIP Talk - Voicemail
       group: VoIP Talk
       description: 
-    - name: Voice & Calls Services
+    - name: UltraVoIP - Voice & Calls Services
       group: UltraVoIP
       description: 
-    - name: Uboss Control Panel
+    - name: UltraVoIP - Uboss Control Panel
       group: UltraVoIP
       description:
-    - name: Voicemail
+    - name: UltraVoIP - Voicemail
       group: UltraVoIP
       description: 
-    - name: Unity Applications
+    - name: UltraVoIP - Unity Applications
       group: UltraVoIP
       description:
-    - name: VUC-One/Webex
+    - name: UltraVoIP - UC-One/Webex
       group: UltraVoIP
       description:
-    - name: Call Recording
+    - name: UltraVoIP - Call Recording
       group: UltraVoIP
       description:
-    - name: Voice & Calls Services
+    - name: UltraSwitch - Voice & Calls Services
       group: UltraSwitch
       description: 
-    - name: Voicemail
+    - name: UltraSwitch - Voicemail
       group: UltraSwitch
       description: 
-    - name: Call Recording
+    - name: UltraSwitch - Call Recording
       group: UltraSwitch
       description:
-    - name: CallSwitch Desktop
+    - name: UltraSwitch - CallSwitch Desktop
       group: UltraSwitch
       description:
-    - name: CallSwitch Mobile
+    - name: UltraSwitch - CallSwitch Mobile
       group: UltraSwitch
       description:
   dateFormat: 2 January, 2006 at 3:04 PM
