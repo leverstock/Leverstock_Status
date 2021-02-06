@@ -12,11 +12,8 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: https://leverstock-knowledgebase.co.uk/status.png
-  description_header: >-
-    This is Leverstock's status page, here you'll find the current status and
-    incident history of Leverstock.
-
-    Don't agree with what's reported here? Contact us at helpdesk@leverstock.com.
+  description_header: This is Leverstock's status page, here you'll find the
+    current status and incident history of Leverstock
   copyrightHolder: Leverstock Ltd
   eventsPerPage: 10
   iconType: image/png
