@@ -12,7 +12,7 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: https://leverstock-knowledgebase.co.uk/status.png
-  description_header: Information about the current status of the systems we offer.
+  description_header: ""
   copyrightHolder: Leverstock Ltd
   eventsPerPage: 10
   iconType: image/png
@@ -21,6 +21,4 @@ params:
     - UltraVoIP
     - UltraSwitch
   icon: /images/clearstatus.png
-  description_footer: <a class='text-grey-darkest' title='Visit leverstock.com'
-    href='https://www.leverstock.com/'>leverstock.com</a> provides open-source
-    software for all kind of sectors.
+  description_footer: ""
