@@ -6,9 +6,8 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: VoIPTalk
-    - name: UltraVoIP
     - name: UltraSwitch
-    - name: UltraVoIP, Test
+    - name: VoIPTalk
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
