@@ -6,11 +6,11 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: VoIPTalk
-      description: Our VoIPTalk Phone System
+      description: Our VoIPTalk Phone Platform
     - name: UltraVoIP
-      description: Out UltraVoIP Phone System
+      description: Out UltraVoIP Phone Platform
     - name: UltraSwitch
-      description: Our UltraSwitch Phone System
+      description: Our UltraSwitch Phone Platform
   dateFormat: 2 January, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
