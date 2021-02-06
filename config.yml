@@ -36,16 +36,16 @@ params:
       group: UltraSwitch
       description: 
     - name: Voicemail
-      group: UltraVoIP
+      group: UltraSwitch
       description: 
     - name: Call Recording
-      group: UltraVoIP
+      group: UltraSwitch
       description:
     - name: CallSwitch Desktop
-      group: UltraVoIP
+      group: UltraSwitch
       description:
     - name: CallSwitch Mobile
-      group: UltraVoIP
+      group: UltraSwitch
       description:
   dateFormat: 2 January, 2006 at 3:04 PM
   disqusShortname: null
