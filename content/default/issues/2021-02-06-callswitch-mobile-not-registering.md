@@ -2,7 +2,7 @@
 section: issue
 title: CallSwitch Mobile not registering
 date: 2021-02-06T17:18:25.939Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: down
@@ -14,3 +14,7 @@ twitterFeed: ""
 enableComments: true
 ---
 We are currently looking into this issue and will update you soon.
+
+
+
+**RESOLVED:** We have now resolved this issue
