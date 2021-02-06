@@ -1,14 +1,14 @@
 title: Leverstock Service Status
 languageCode: en
 params:
-  shortDateFormat: 15:04 — Jan 2
+  shortDateFormat: Jan 2 — 15:04
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: VoIPTalk
     - name: UltraSwitch
     - name: VoIPTalk
-  dateFormat: January 2, 2006 at 3:04 PM
+  dateFormat: 2 January, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/clearstatus.svg
