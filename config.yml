@@ -8,7 +8,9 @@ params:
     - name: VoIPTalk
       description: Our VoIPTalk Phone System
     - name: UltraVoIP
+      description: Out UltraVoIP Phone System
     - name: UltraSwitch
+      description: Our UltraSwitch Phone System
   dateFormat: 2 January, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
