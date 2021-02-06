@@ -9,7 +9,7 @@ max_severity: down
 duration: ""
 resolved_on: 2021-02-06T17:18:25.964Z
 affected:
-  - CallSwitch Mobile
+  - UltraSwitch - CallSwitch Mobile
 twitterFeed: ""
 enableComments: true
 ---
