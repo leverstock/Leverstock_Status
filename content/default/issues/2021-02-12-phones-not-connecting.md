@@ -14,3 +14,5 @@ twitterFeed: ""
 enableComments: true
 ---
 We are currently looking into an issue where phones on the VoIP Talk platform are reporting "No Service" and not connecting to the platform.
+
+**UPDATE: -** Engineers have identified a DNS issue and working on resolving this as quick as possible.
