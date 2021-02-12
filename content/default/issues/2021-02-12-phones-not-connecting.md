@@ -2,7 +2,7 @@
 section: issue
 title: Phones not connecting
 date: 2021-02-12T08:30:28.979Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: monitoring
 max_severity: down
