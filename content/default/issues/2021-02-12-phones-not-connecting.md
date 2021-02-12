@@ -4,8 +4,8 @@ title: Phones not connecting
 date: 2021-02-12T08:30:28.979Z
 status: in_progress
 pinned: ""
-current_severity: down
-max_severity: monitoring
+current_severity: monitoring
+max_severity: down
 duration: ""
 resolved_on: 2021-02-12T09:20:29.005Z
 affected:
