@@ -9,7 +9,7 @@ max_severity: disrupted
 duration: ""
 resolved_on: 2021-03-09T14:56:19.208Z
 affected:
-  - UltraVoIP - Voice & Calls Services
+  - VoIP Talk - Voice & Calls Services
 twitterFeed: ""
 enableComments: true
 ---
