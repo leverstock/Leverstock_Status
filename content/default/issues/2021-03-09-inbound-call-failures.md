@@ -20,4 +20,10 @@ Customers will experience inbound calls routing directly to voicemail. We are in
 \
 Please accept our sincere apologies for the inconvenience this will cause.
 
+
+
+**UPDATE - 15:10 GMT -** \
+The issue has been identified and a fix will soon be implemented. 
+Please accept our sincere apologies for the inconvenience this has caused.
+
 <!--EndFragment-->
