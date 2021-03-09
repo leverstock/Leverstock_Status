@@ -4,7 +4,7 @@ title: Inbound Call Failures
 date: 2021-03-09T14:56:19.067Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: monitoring
 max_severity: disrupted
 duration: ""
 resolved_on: 2021-03-09T14:56:19.208Z
@@ -25,5 +25,12 @@ Please accept our sincere apologies for the inconvenience this will cause.
 **UPDATE - 15:10 GMT -** \
 The issue has been identified and a fix will soon be implemented. 
 Please accept our sincere apologies for the inconvenience this has caused.
+
+<!--StartFragment-->
+
+**Monitoring** - A fix has been implemented and we believe the issue to be resolved. Please re-test and contact our support teams if you are still having a problem.\
+Please accept our sincere apologies for the inconvenience this will cause.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
