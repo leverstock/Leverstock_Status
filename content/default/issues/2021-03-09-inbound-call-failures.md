@@ -2,7 +2,7 @@
 section: issue
 title: Inbound Call Failures
 date: 2021-03-09T14:56:19.067Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: monitoring
 max_severity: disrupted
