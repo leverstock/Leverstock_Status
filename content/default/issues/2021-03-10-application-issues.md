@@ -9,7 +9,6 @@ max_severity: disrupted
 duration: ""
 resolved_on: 2021-03-10T10:54:25.039Z
 affected:
-  - UltraVoIP - Unity Applications
   - UltraVoIP - UC-One/Webex
 twitterFeed: ""
 enableComments: true
