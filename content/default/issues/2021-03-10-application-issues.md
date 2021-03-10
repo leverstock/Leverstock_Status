@@ -14,8 +14,10 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-We are currently investigating issues affecting some third party applications including Unity Desktop and UC-One
+`We are currently investigating issues affecting some third party applications including Unity Desktop and UC-One`
 
-**UPDATE - 11:14 GMT -**
+`<br>`
 
-We believe this issue to only be affecting UC-One Trio. Our investigation continues as we liaise with the supplier.
+**`UPDATE - 11:14 GMT -`**
+
+`We believe this issue to only be affecting UC-One Trio. Our investigation continues as we liaise with the supplier. `
