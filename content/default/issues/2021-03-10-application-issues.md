@@ -4,7 +4,7 @@ title: Application Issues
 date: 2021-03-10T10:54:24.992Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: monitoring
 max_severity: disrupted
 duration: ""
 resolved_on: 2021-03-10T10:54:25.039Z
@@ -21,3 +21,9 @@ We are currently investigating issues affecting some third party applications in
 **UPDATE - 11:14 GMT -**
 
 We believe this issue to only be affecting UC-One Trio. Our investigation continues as we liaise with the supplier.
+
+<br>
+
+**UPDATE - 13:51 GMT -**
+
+The issue affecting UC-One Trio is no longer present and we are continuing to monitor the situation whilst we work with the third party supplier. A further update will be provided in due course.
