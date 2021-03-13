@@ -17,8 +17,13 @@ We are currently investigating issues affecting some third party applications in
 
 <br>
 
+**UPDATE - Mar 13 - 16:07 GMT -**\
+Additional patching was carried out yesterday evening to address error logs which we believe to be related to this incident. As it stands, UC-One Trio is operating as normal and the error logs in question are no longer being generated. We are continuing to monitor the situation whilst we carry on with our overall investigation. 
+
+<br>
+
 **UPDATE - Mar 12 - 22:30 GMT -**\
-This evening we will be patching our XSP servers on further advice from Cisco, due to the issues experienced with UCOne Trio logins experienced on the 9th and 10th, and 12th of March 2021. 
+This evening we will be patching our XSP servers on further advice from Cisco, due to the issues experienced with UC-One Trio logins experienced on the 9th and 10th, and 12th of March 2021. 
 
 <br>
 
