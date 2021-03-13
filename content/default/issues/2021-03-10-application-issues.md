@@ -38,3 +38,8 @@ Emergency maintenance was performed yesterday evening to resolve this issue afte
 **UPDATE - Mar 12 - 11:19 GMT -**
 
 Unfortunately we experienced a recurrence of this issue this morning between 10:15 and 10:24. This would suggest the patch which was applied was not successful in resolving the problem. We are continuing our investigation to try and get this resolved once and for all. Apologies for the inconvenience which may have been caused.
+
+<br>
+
+**UPDATE - Mar 12 - 22:30 GMT -**\
+This evening we will be patching our XSP servers on further advice from Cisco, due to the issues experienced with UCOne Trio logins experienced on the 9th and 10th, and 12th of March 2021.
