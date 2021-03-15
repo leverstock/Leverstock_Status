@@ -17,8 +17,8 @@ We are currently investigating issues affecting some third party applications in
 
 <br>
 
-**UPDATE - Mar 15 - 09:30 GMT -**\
-Our 3rd Line team have been working on this all weekend and are engaged with the top leve support from Cisco.  Currently the service is working and may not produce any difficulties today, however the team are working to confirm that the issue has been resolved.
+**UPDATE - Mar 15 - 10:12 GMT -**\
+This incident remains active. Unfortunately there have been additional error logs generated on 14/03/2021 which are related to this issue. Various required changes, relating specifically to server side logging, have been identified which we believe will help in resolving the problem. That work is being planned at the moment and will be scheduled in as maintenance this evening. 
 
 <br>
 
