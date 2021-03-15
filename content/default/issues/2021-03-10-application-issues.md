@@ -17,6 +17,11 @@ We are currently investigating issues affecting some third party applications in
 
 <br>
 
+**UPDATE - Mar 15 - 09:30 GMT -**\
+Our 3rd Line team have been working on this all weekend and are engaged with the top leve support from Cisco.  Currently the service is working and may not produce any difficulties today, however the team are working to confirm that the issue has been resolved.
+
+<br>
+
 **UPDATE - Mar 13 - 16:07 GMT -**\
 Additional patching was carried out yesterday evening to address error logs which we believe to be related to this incident. As it stands, UC-One Trio is operating as normal and the error logs in question are no longer being generated. We are continuing to monitor the situation whilst we carry on with our overall investigation. 
 
