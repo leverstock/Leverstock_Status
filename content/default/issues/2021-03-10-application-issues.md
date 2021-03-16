@@ -4,7 +4,7 @@ title: UC-One Trio Issues
 date: 2021-03-10T10:54:24.992Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: monitoring
 max_severity: disrupted
 duration: ""
 resolved_on: 2021-03-10T10:54:25.039Z
@@ -14,6 +14,11 @@ twitterFeed: ""
 enableComments: true
 ---
 We are currently investigating issues affecting some third party applications including Unity Desktop and UC-One
+
+<br>
+
+**UPDATE - Mar 16 - 10:20 GMT -**\
+Modifications were made yesterday evening during a maintenance window to address the continued error messages we were seeing related to UC-One Trio. We are confident that the modifications made yesterday have now resolved the issue and we haven't seen any errors since. We are continuing to monitor the situation closely and will provide a status update at 11:45 on 17/03/2021. 
 
 <br>
 
