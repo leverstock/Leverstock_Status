@@ -2,7 +2,7 @@
 section: issue
 title: UC-One Trio Issues
 date: 2021-03-10T10:54:24.992Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: disrupted
