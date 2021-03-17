@@ -4,16 +4,21 @@ title: UC-One Trio Issues
 date: 2021-03-10T10:54:24.992Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
+current_severity: ok
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-03-10T10:54:25.039Z
+resolved_on: 2021-03-17T10:54:25.039Z
 affected:
   - UltraVoIP - UC-One/Webex
 twitterFeed: ""
 enableComments: true
 ---
 We are currently investigating issues affecting some third party applications including Unity Desktop and UC-One
+
+<br>
+
+**RESOLVED - Mar 17 - 11:47 GMT -**\
+We can confirm that in the last 24 hours we have not seen error logs and the system is operating as expected. We are now confident that the changes made on 15/03/2021 have resolved the issue.  Apologies for the inconvenience this incident may have caused. 
 
 <br>
 
