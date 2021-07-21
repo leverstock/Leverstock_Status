@@ -4,7 +4,7 @@ title: Potential Service Interruption
 date: 2021-07-21T08:29:16.701Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: monitoring
 max_severity: down
 duration: ""
 resolved_on: 2021-07-21T08:29:16.740Z
