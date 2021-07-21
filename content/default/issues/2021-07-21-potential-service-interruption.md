@@ -14,8 +14,6 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-
-
-**ISSUE**
+**ISSUE DETAILS**
 
 We are currently investigating an incident which occurred at 09:17 this morning. Further updates to follow.
