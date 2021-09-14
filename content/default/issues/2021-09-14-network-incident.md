@@ -19,6 +19,8 @@ Users are currently unable to make or receive calls.
 
 Update with more info to follow shortly.
 
+**UPDATE: 14/09/21 18:43 -** 	Our NOC team continue to work alongside our on-site engineering team, investigating a P1 issue with connectivity between our UK data centre locations.
+
 **UPDATE: 14/09/21 16:54 -** Engineers are still working with the Data Centres to resolve this issue.
 
 **UPDATE: 14/09/21 16:02 -** Engineers are already on site in both London Data Centres working to resolve this issue.
