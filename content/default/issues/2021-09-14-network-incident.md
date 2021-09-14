@@ -15,4 +15,6 @@ enableComments: true
 ---
 We are currently investigating an issue with our Telehouse point of presence.
 
-Update with more info to follow shortly. 
+Users are currently unable to make or receive calls.
+
+Update with more info to follow shortly.
