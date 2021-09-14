@@ -21,6 +21,8 @@ Update with more info to follow shortly.
 
 <br>
 
+**UPDATE: 14/09/21 21:35 -** A temporary hardware fix has now been implemented and further maintenance will be ongoing throughout the night. We expect service to be fully restored by 6am.
+
 **UPDATE: 14/09/21 21:29 -** Our remote and on site teams have identified the issue with connectivity which affected our UK data centre locations, and a hardware fix is currently being implemented.
 
 **UPDATE: 14/09/21 18:43 -** 	Our NOC team continue to work alongside our on-site engineering team, investigating a P1 issue with connectivity between our UK data centre locations.
