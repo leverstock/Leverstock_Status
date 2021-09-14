@@ -19,6 +19,8 @@ Users are currently unable to make or receive calls.
 
 Update with more info to follow shortly.
 
+**UPDATE: 14/09/21 16:54 -** Engineers are still working with the Data Centres to resolve this issue.
+
 **UPDATE: 14/09/21 16:02 -** Engineers are already on site in both London Data Centres working to resolve this issue.
 
 **UPDATE: 14/09/21 15:41 -** Investigations are still underway, update to follow shortly
