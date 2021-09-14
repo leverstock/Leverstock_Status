@@ -4,7 +4,7 @@ title: Network Incident
 date: 2021-09-14T15:05:00.000Z
 status: in_progress
 pinned: ""
-current_severity: down
+current_severity: disrupted
 max_severity: down
 duration: ""
 resolved_on: 2021-09-14T14:18:50.141Z
