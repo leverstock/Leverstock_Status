@@ -18,3 +18,7 @@ We are currently investigating an issue with our Telehouse point of presence.
 Users are currently unable to make or receive calls.
 
 Update with more info to follow shortly.
+
+
+
+**UPDATE: 14/09/21 15:41 -** Investigations are still underway, update to follow shortly
