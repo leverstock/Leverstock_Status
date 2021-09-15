@@ -2,9 +2,9 @@
 section: issue
 title: Network Incident
 date: 2021-09-14T15:05:00.000Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: disrupted
+current_severity: ok
 max_severity: down
 duration: ""
 resolved_on: 2021-09-14T14:18:50.141Z
@@ -20,6 +20,8 @@ Users are currently unable to make or receive calls.
 Update with more info to follow shortly.
 
 <br>
+
+**UPDATE: 15/09/21 08:24 -** The network is now running in its origional state.
 
 **UPDATE: 14/09/21 21:35 -** A temporary hardware fix has now been implemented and further maintenance will be ongoing throughout the night. We expect service to be fully restored by 6am.
 
